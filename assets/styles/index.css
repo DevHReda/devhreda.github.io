@@ -5,8 +5,8 @@
 
 div.NAV_BAR
 {
-    width: 100%;
     background-color: var(--PRIMARY);
+    width: 100%;
 }
 
 .LOGO_IMAGE
