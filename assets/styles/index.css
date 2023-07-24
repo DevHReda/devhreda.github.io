@@ -1,6 +1,8 @@
 :root
 {
- --PRIMARY: #084A9C;
+    --PRIMARY: #084A9C;
+    padding: 0%;
+    margin: 0%;
 }
 
 div.NAV_BAR
