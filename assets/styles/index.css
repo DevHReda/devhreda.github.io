@@ -5,7 +5,7 @@
 
 div.NAV_BAR
 {
-    background-color: var(--PRIMARY);
+    color: var(--PRIMARY);
     width: 100%;
 }
 
