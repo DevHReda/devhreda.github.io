@@ -1,6 +1,14 @@
+:root
+{
+ --PRIMARY: #084A9C;
+}
+
 div.NAV_BAR
 {
-    background-color: #084A9C;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--PRIMARY);
 }
 
 .LOGO_IMAGE
