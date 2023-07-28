@@ -18,5 +18,5 @@ div.NAV_BAR
 
 h1.TITLE
 {
-    color: white;
+    color: var(--PRIMARY);
 }
