@@ -1,6 +1,9 @@
 :root
 {
     --PRIMARY: #084A9C;
+    --WHITE: #FFFFFF;
+    padding: 0;
+    margin: 0;
 }
 
 div.NAV_BAR
@@ -18,5 +21,5 @@ div.NAV_BAR
 
 h1.TITLE
 {
-    color: var(--PRIMARY);
+    color: var(--WHITE);
 }
